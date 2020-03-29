@@ -1,3 +1,11 @@
+<h1 align="center">
+    <img alt="ThemeSwitcher" src="./assets/themeSwitcher.gif" width="200px" />
+</h1>
+
+<h3 align="center">
+  ThemeSwitcher
+</h3>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
